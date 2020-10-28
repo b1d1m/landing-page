@@ -11,3 +11,6 @@ The starter project has some HTML and CSS styling to display a static version of
 To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+The navbar was built dynamically when the page is loaded. and all the other requirements was done.
+I just faced some problems with scrolling issue.
+I hope I've done the best I coudl do.
